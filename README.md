@@ -1,2 +1,2 @@
 # Linux
-Linux material
+Linux material + Putty
